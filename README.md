@@ -48,10 +48,11 @@ Detail-oriented Manual QA Tester with a solid foundation in software testing met
 
 ---
 
-### 3. **Designed UI/UX for PLM CRS for Undergraduate Students (Web Dev Project)**  
+### 3. **Designed UI/UX for PLM CRS for Undergraduate Students** *(Web Dev Project)*  
 - Designed the user interface for the PLM Course Registration System (CRS)
 - Used Figma to create a clean, responsive, and student-friendly layout
 - Focused on intuitive user flows and accessible design for ease of use
+- Used Notion for project management and clear task distribution
 - Collaborated with developers to ensure consistency between design and implementation  
 🔗 [View Prototype on Figma](https://www.figma.com/proto/ycJyjJg0kq22FgiUI3paHN/PLM-CRS--Undergrad---Grad-?node-id=1121-11197&t=HgjUf8ARc0jSrKuW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=227%3A2372&show-proto-sidebar=1)
 
