@@ -1,22 +1,22 @@
 # 👩‍💻 Paulyn Placido – QA Tester Portfolio
 
 ## 📍 Manila City, Philippines  
-**Email:** placidopaulyn@outlook.com  
-**GitHub:** https://github.com/sio-pao  
-**LinkedIn:** www.linkedin.com/in/pauplcd  
+**Email:** placidopaulyn@outlook.com
+**GitHub:** https://github.com/sio-pao
+**LinkedIn:** www.linkedin.com/in/pauplcd
 
 ---
 
 ## 🧩 About Me
 
-Detail-oriented Manual QA Tester with a solid foundation in software testing methodologies including UAT and regression testing. Experienced in writing and executing test plans, tracking defects, and collaborating with cross-functional teams including Devs, DevOps, and BAs. Passionate about quality and usability, with a keen eye for detail and a knack for guiding QA interns.
+Detail-oriented Manual QA Tester with a solid foundation in software testing methodologies including UAT and regression testing. Experienced in writing and executing test plans, tracking defects, and collaborating with cross-functional teams including Devs, and BAs. Passionate about quality and usability, with a keen eye for detail and a knack for guiding QA interns.
 
 ---
 
 ## 🛠️ Skills
 
 - **Testing:** Manual Testing, Regression Testing, UAT, Functional Testing  
-- **Tools:** ClickUp, Google Sheets, Notion  
+- **Tools:** ClickUp, Google Sheets, Notion, Figma  
 - **Bug Tracking:** ClickUp, Notion, Spreadsheet  
 - **Test Planning:** Test Case Design, Test Documentation  
 - **Soft Skills:** Team Collaboration, QA Mentorship, Attention to Detail  
@@ -26,34 +26,34 @@ Detail-oriented Manual QA Tester with a solid foundation in software testing met
 
 ## 📋 Projects
 
-### 1. **Manual QA on Mock E-Commerce Platform** *(Project)*  
-- Performed UAT and regression testing  
-
-
-### 1. **Manual QA on Makati AIS – Ongoing QA Testing Project** *(Current Role)*
-- Actively involved in testing an Accounting Information System (AIS) for Makati
+### 1. **Manual QA on Accounting Information System – Ongoing QA Testing Project** *(Current Role)*
+- Actively involved in testing an Accounting Information System (AIS)
 - Performing UAT, regression testing, and functional validation across modules
-- Created test plans and 30+ detailed test cases  
+- Created test plans and detailed test cases  
 - Documented and tracked bugs using ClickUp  
 - Collaborating with developers and DevOps to ensure timely defect resolution
 - Maintaining documentation for reproducibility and quality assurance
-🔗 View Bug Tracker (XLSX) (Upload to your GitHub repo to activate this link)
-🔗 [Test Cases](https://drive.google.com/drive/folders/19JEqcOltDm4wKOneucH23VQHr0wx4Xwc?usp=sharing)  
-🔗 [Bug Reports](https://drive.google.com/file/d/1lUc6T3OtS7CbyaN0tTWc86UQPZOiovFa/view?usp=sharing)
-N
----
-
-### 2. **Postman API Testing – JSONPlaceholder API** *(Practice Project)*  
-- Created test cases for basic GET/POST requests  
-- Validated response codes and data  
-🔗 [Postman Collection](https://www.postman.com)
+🔗 [View Test Cases](https://github.com/sio-pao/qa-portfolio/blob/main/Makati%20AIS%20Bug%20Tracker.xlsx)  
+🔗 [View Sample Bug Reports](https://github.com/sio-pao/qa-portfolio/blob/main/Bug%20Reports%20using%20ClickUp%20Tool.pdf)
 
 ---
 
-### 3. **Selenium Automation Practice (Beginner)**  
-- Built basic login test automation using Python and Selenium  
-- Used ChromeDriver and XPath selectors  
-🔗 [View on GitHub](https://github.com/yourusername/selenium-practice)
+### 2. **Manual QA on Barangay Record Management System** *(Software Development Project)*  
+- Manually tested the entire system to ensure proper functionality across key modules: resident records, barangay certificates, and request management
+- Developed comprehensive test cases covering both valid and invalid input scenarios
+- Logged results for expected vs. actual outcomes and documented issues found during manual testing
+- Ensured UI and backend logic met requirements before deployment
+🔗 [View Test Cases](https://github.com/sio-pao/qa-portfolio/blob/main/BRMS-Test-Cases.xlsx)
+🔗 [View Our Project User Manual](https://github.com/sio-pao/qa-portfolio/blob/main/BRMS-User-Manual.pdf)
+
+---
+
+### 3. **Designed UI/UX for PLM CRS for Undergraduate Students (Web Dev Project)**  
+- Designed the user interface for the PLM Course Registration System (CRS)
+- Used Figma to create a clean, responsive, and student-friendly layout
+- Focused on intuitive user flows and accessible design for ease of use
+- Collaborated with developers to ensure consistency between design and implementation
+🔗 [View Prototype on Figma](https://www.figma.com/proto/ycJyjJg0kq22FgiUI3paHN/PLM-CRS--Undergrad---Grad-?node-id=1121-11197&t=HgjUf8ARc0jSrKuW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=227%3A2372&show-proto-sidebar=1)
 
 ---
 
@@ -64,9 +64,12 @@ N
 Pamantasan ng Lungsod ng Maynila
 
 **Certifications:**
-- **Student Achiever Award** – Christian Brotherhood International  
-- **Network Technician Career Path** – CISCO  
+- **Student Achiever Award** – Certificate for winning best poster in 6th Y4IT Reseach Summit 2024 the UP-System IT Foundation (UPSITE)  
+- **Network Technician Career Path** – CISCO
+
+**Organization:**
 - **Google Developers Student Club** – Alumni
+- **Christian Brotherhood Association** - Alumni
 
 ---
 
