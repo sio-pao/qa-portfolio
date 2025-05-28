@@ -1,9 +1,9 @@
 # 👩‍💻 Paulyn Placido – QA Tester Portfolio
 
 ## 📍 Manila City, Philippines  
-**Email:** placidopaulyn@outlook.com
-**GitHub:** https://github.com/sio-pao
-**LinkedIn:** www.linkedin.com/in/pauplcd
+**Email:** placidopaulyn@outlook.com  
+**GitHub:** https://github.com/sio-pao  
+**LinkedIn:** www.linkedin.com/in/pauplcd  
 
 ---
 
@@ -32,7 +32,7 @@ Detail-oriented Manual QA Tester with a solid foundation in software testing met
 - Created test plans and detailed test cases  
 - Documented and tracked bugs using ClickUp  
 - Collaborating with developers and DevOps to ensure timely defect resolution
-- Maintaining documentation for reproducibility and quality assurance
+- Maintaining documentation for reproducibility and quality assurance  
 🔗 [View Test Cases](https://github.com/sio-pao/qa-portfolio/blob/main/Makati%20AIS%20Bug%20Tracker.xlsx)  
 🔗 [View Sample Bug Reports](https://github.com/sio-pao/qa-portfolio/blob/main/Bug%20Reports%20using%20ClickUp%20Tool.pdf)
 
@@ -42,8 +42,8 @@ Detail-oriented Manual QA Tester with a solid foundation in software testing met
 - Manually tested the entire system to ensure proper functionality across key modules: resident records, barangay certificates, and request management
 - Developed comprehensive test cases covering both valid and invalid input scenarios
 - Logged results for expected vs. actual outcomes and documented issues found during manual testing
-- Ensured UI and backend logic met requirements before deployment
-🔗 [View Test Cases](https://github.com/sio-pao/qa-portfolio/blob/main/BRMS-Test-Cases.xlsx)
+- Ensured UI and backend logic met requirements before deployment  
+🔗 [View Test Cases](https://github.com/sio-pao/qa-portfolio/blob/main/BRMS-Test-Cases.xlsx)  
 🔗 [View Our Project User Manual](https://github.com/sio-pao/qa-portfolio/blob/main/BRMS-User-Manual.pdf)
 
 ---
@@ -52,7 +52,7 @@ Detail-oriented Manual QA Tester with a solid foundation in software testing met
 - Designed the user interface for the PLM Course Registration System (CRS)
 - Used Figma to create a clean, responsive, and student-friendly layout
 - Focused on intuitive user flows and accessible design for ease of use
-- Collaborated with developers to ensure consistency between design and implementation
+- Collaborated with developers to ensure consistency between design and implementation  
 🔗 [View Prototype on Figma](https://www.figma.com/proto/ycJyjJg0kq22FgiUI3paHN/PLM-CRS--Undergrad---Grad-?node-id=1121-11197&t=HgjUf8ARc0jSrKuW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=227%3A2372&show-proto-sidebar=1)
 
 ---
